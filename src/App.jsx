@@ -8,7 +8,7 @@ import Arena from './Components/Arena';
 import LoadingIndicator from './Components/LoadingIndicator';
 
 // Constants
-const TWITTER_HANDLE = '_buildspace';
+const TWITTER_HANDLE = 'adaihueze';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 import { CONTRACT_ADDRESS, transformCharacterData } from './constants';
 
